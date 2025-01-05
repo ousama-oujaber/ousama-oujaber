@@ -1,7 +1,7 @@
 <div align="center" width="50">
-<center>
+
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-</center>
+
 <div align="center" >
     <a  href="https://github.com/protocol-404">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=protocol-404&theme=github_dark" width="32.5%">
