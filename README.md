@@ -3,9 +3,9 @@
 <br>
 <div align="center">
 <a href="https://github.com/protocol-404">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=protocol-404&theme=github_dark" width="32.5%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=protocol-404&theme=github_dark" width="32.5%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=protocol-404&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousama-oujaber&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousama-oujaber&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousama-oujaber&theme=github_dark" width="32.5%" />
 </a>
 <br>
 <strong>More stats</strong>
